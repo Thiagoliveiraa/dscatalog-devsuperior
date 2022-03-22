@@ -1,4 +1,4 @@
-package com.devsuperior.dscatalog.resource.exception;
+package com.devsuperior.dscatalog.resources.exception;
 
 import java.io.Serializable;
 
